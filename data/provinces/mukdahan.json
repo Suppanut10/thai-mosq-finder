@@ -1,0 +1,18 @@
+[
+ {
+  "id": "dra-2722",
+  "name": "มัสยิดกลางจังหวัดมุกดาหาร",
+  "type": "มัสยิด",
+  "province": "มุกดาหาร",
+  "district": "เมือง",
+  "subdistrict": "มุกดาหาร",
+  "address": "",
+  "lat": 16.533078,
+  "lng": 104.647401,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

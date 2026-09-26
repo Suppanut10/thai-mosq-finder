@@ -1,0 +1,34 @@
+[
+ {
+  "id": "dra-1637",
+  "name": "ฮาบีบุ้ลอิสลาม",
+  "type": "มัสยิด",
+  "province": "ปราจีนบุรี",
+  "district": "กบินทร์บุรี",
+  "subdistrict": "กบินทร์",
+  "address": "",
+  "lat": 13.853598,
+  "lng": 101.772067,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ },
+ {
+  "id": "dra-1638",
+  "name": "นูรุ้ลอิสลาม",
+  "type": "มัสยิด",
+  "province": "ปราจีนบุรี",
+  "district": "ศรีมหาโพธิ์",
+  "subdistrict": "ท่าตูม",
+  "address": "",
+  "lat": 13.876247,
+  "lng": 101.540346,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "id": "dra-3977",
+  "name": "ดำรงอิสลาม",
+  "type": "มัสยิด",
+  "province": "สมุทรสงคราม",
+  "district": "อัมพวา",
+  "subdistrict": "ปลายโพงพาง",
+  "address": "",
+  "lat": 13.363228,
+  "lng": 99.934495,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

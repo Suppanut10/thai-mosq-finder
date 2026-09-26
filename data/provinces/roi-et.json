@@ -1,0 +1,34 @@
+[
+ {
+  "id": "dra-3247",
+  "name": "มัมบะอุลฮิดายะห์",
+  "type": "มัสยิด",
+  "province": "ร้อยเอ็ด",
+  "district": "เมือง",
+  "subdistrict": "ในเมือง",
+  "address": "",
+  "lat": 16.013655,
+  "lng": 103.59377,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ },
+ {
+  "id": "dra-3248",
+  "name": "กลาง",
+  "type": "มัสยิด",
+  "province": "ร้อยเอ็ด",
+  "district": "เสลภูมิ",
+  "subdistrict": "กลาง",
+  "address": "",
+  "lat": 16.012529,
+  "lng": 104.011674,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "id": "dra-509",
+  "name": "มู่ฮำม่าดียะห์",
+  "type": "มัสยิด",
+  "province": "ชัยนาท",
+  "district": "เมือง",
+  "subdistrict": "ในเมือง",
+  "address": "",
+  "lat": 15.189428,
+  "lng": 100.167043,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

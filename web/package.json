@@ -1,0 +1,19 @@
+{
+  "name": "mosque-finder-th",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "data": "node scripts/copy-data.mjs",
+    "dev": "npm run data && vite",
+    "build": "npm run data && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "vite": "^6.0.0"
+  }
+}

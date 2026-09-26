@@ -1,0 +1,18 @@
+[
+ {
+  "id": "dra-1587",
+  "name": "อัศศอบีรีน",
+  "type": "มัสยิด",
+  "province": "บึงกาฬ",
+  "district": "ปากคาด",
+  "subdistrict": "โนนศิลา",
+  "address": "",
+  "lat": 18.295624,
+  "lng": 103.341414,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "id": "dra-4052",
+  "name": "ฮิดาย่าตุ้ลอิสลาม",
+  "type": "มัสยิด",
+  "province": "อุทัยธานี",
+  "district": "ลานสัก",
+  "subdistrict": "ลานสัก",
+  "address": "",
+  "lat": 15.557312,
+  "lng": 99.438442,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ },
+ {
+  "id": "dra-4051",
+  "name": "สิรอญุ้ลอิสลามอุทัยธานี",
+  "type": "มัสยิด",
+  "province": "อุทัยธานี",
+  "district": "เมือง",
+  "subdistrict": "อุทัยใหม่",
+  "address": "",
+  "lat": 15.390032,
+  "lng": 100.018278,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

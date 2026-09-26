@@ -1,0 +1,18 @@
+[
+ {
+  "id": "dra-3308",
+  "name": "นูรุลอิสลาม",
+  "type": "มัสยิด",
+  "province": "สกลนคร",
+  "district": "เมือง",
+  "subdistrict": "ธาตุเชิงชุม",
+  "address": "",
+  "lat": 17.167019,
+  "lng": 104.13419,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "subdistrict_center"
+ }
+]

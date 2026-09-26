@@ -1,0 +1,34 @@
+[
+ {
+  "id": "dra-2720",
+  "name": "อัลฮายาต",
+  "type": "มัสยิด",
+  "province": "มหาสารคาม",
+  "district": "เชียงยืน",
+  "subdistrict": "เชียงยืน",
+  "address": "",
+  "lat": 16.416558,
+  "lng": 103.066531,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ },
+ {
+  "id": "dra-2721",
+  "name": "นูรุ้ลเอียะห์ซาน",
+  "type": "มัสยิด",
+  "province": "มหาสารคาม",
+  "district": "เมือง",
+  "subdistrict": "ตลาด",
+  "address": "",
+  "lat": 16.10465,
+  "lng": 103.310879,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

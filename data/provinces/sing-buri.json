@@ -1,0 +1,34 @@
+[
+ {
+  "id": "dra-3986",
+  "name": "นูรุสซุนนะฮ",
+  "type": "มัสยิด",
+  "province": "สิงห์บุรี",
+  "district": "อินท์บุรี",
+  "subdistrict": "ท่างาม",
+  "address": "",
+  "lat": 15.023762,
+  "lng": 100.334962,
+  "osm_id": "way/1177550644",
+  "osm_name": "มัสยิดนูรุสซุนนะฮฺ",
+  "match_score": 94.7,
+  "match_status": "matched",
+  "coord_source": "osm"
+ },
+ {
+  "id": "dra-3985",
+  "name": "ยามิอุซซุนนะห์",
+  "type": "มัสยิด",
+  "province": "สิงห์บุรี",
+  "district": "เมือง",
+  "subdistrict": "ต้นโพธิ์",
+  "address": "",
+  "lat": 14.906506,
+  "lng": 100.395961,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

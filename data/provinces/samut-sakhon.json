@@ -1,0 +1,18 @@
+[
+ {
+  "id": "dra-3978",
+  "name": "นูรุ้ลลอฮ์ (สุเหร่าขาวมหาชัย)",
+  "type": "สุเหร่า",
+  "province": "สมุทรสาคร",
+  "district": "เมือง",
+  "subdistrict": "มหาชัย",
+  "address": "",
+  "lat": 13.546578,
+  "lng": 100.278595,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "subdistrict_center"
+ }
+]

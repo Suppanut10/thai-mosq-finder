@@ -1,0 +1,18 @@
+[
+ {
+  "id": "dra-2660",
+  "name": "เด่นชัย",
+  "type": "มัสยิด",
+  "province": "แพร่",
+  "district": "เด่นชัย",
+  "subdistrict": "เด่นชัย",
+  "address": "",
+  "lat": 17.912315,
+  "lng": 100.031287,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

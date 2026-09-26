@@ -1,0 +1,34 @@
+[
+ {
+  "id": "dra-411",
+  "name": "ยันน่าตุ้ลมูฮายีรีน",
+  "type": "มัสยิด",
+  "province": "จันทบุรี",
+  "district": "เมือง",
+  "subdistrict": "ท่าช้าง",
+  "address": "",
+  "lat": 12.629824,
+  "lng": 102.117087,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ },
+ {
+  "id": "dra-410",
+  "name": "นูรุ้ลการีม",
+  "type": "มัสยิด",
+  "province": "จันทบุรี",
+  "district": "แก่งหางแมว",
+  "subdistrict": "สามพี่น้อง",
+  "address": "",
+  "lat": 13.083694,
+  "lng": 101.871434,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "id": "dra-3307",
+  "name": "วะฮ์ดานียะฮ์",
+  "type": "มัสยิด",
+  "province": "ศรีสะเกษ",
+  "district": "วังหิน",
+  "subdistrict": "ควนใหญ่",
+  "address": "",
+  "lat": 14.96864,
+  "lng": 104.208078,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

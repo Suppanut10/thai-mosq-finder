@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="th">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="description" content="ค้นหามัสยิดและสุเหร่าที่จดทะเบียนในประเทศไทย ดูแผนที่ หาที่ใกล้ที่สุด และนำทางด้วย Google Maps" />
+    <meta name="theme-color" content="#0f5c4a" />
+    <title>หามัสยิด — มัสยิดจดทะเบียนทั่วไทย</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <a class="skip" href="#results">ข้ามไปที่รายการ</a>
+
+    <header class="top">
+      <div class="brand">
+        <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true">
+          <path d="M16 3c-1 3-6 5-6 11h12c0-6-5-8-6-11z" />
+          <rect x="7" y="15" width="18" height="12" rx="1" />
+          <rect x="3" y="9" width="3" height="18" rx="1" />
+          <rect x="26" y="9" width="3" height="18" rx="1" />
+        </svg>
+        <div>
+          <h1>หามัสยิด</h1>
+          <p class="tagline">มัสยิดและสุเหร่าที่จดทะเบียนทั่วประเทศไทย</p>
+        </div>
+      </div>
+
+      <form class="controls" id="controls" role="search">
+        <div class="field">
+          <label for="province">จังหวัด</label>
+          <select id="province" disabled>
+            <option value="">กำลังโหลด…</option>
+          </select>
+        </div>
+        <button type="button" id="near-me" class="btn btn-primary">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3" /><path d="M12 2v3M12 19v3M2 12h3M19 12h3" /><circle cx="12" cy="12" r="7" fill="none" /></svg>
+          ใกล้ฉัน
+        </button>
+        <div class="field field-search">
+          <label for="search">ค้นหาชื่อ ตำบล หรืออำเภอ</label>
+          <input id="search" type="search" placeholder="เช่น นูรุลอิสลาม, หนองจอก" autocomplete="off" disabled />
+        </div>
+      </form>
+    </header>
+
+    <div class="tabs" role="tablist" aria-label="มุมมอง">
+      <button role="tab" id="tab-list" aria-controls="results" aria-selected="true">รายการ</button>
+      <button role="tab" id="tab-map" aria-controls="map-panel" aria-selected="false" tabindex="-1">แผนที่</button>
+    </div>
+
+    <main class="layout" data-view="list">
+      <section id="results" class="results" role="tabpanel" aria-labelledby="tab-list" tabindex="-1">
+        <p id="status" class="status" aria-live="polite">เลือกจังหวัด หรือกด “ใกล้ฉัน” เพื่อหามัสยิด</p>
+        <ol id="list" class="list"></ol>
+      </section>
+      <section id="map-panel" class="map-panel" role="tabpanel" aria-labelledby="tab-map">
+        <div id="map" aria-label="แผนที่มัสยิด"></div>
+        <p class="legend">
+          <span><i class="dot dot-exact"></i> ตำแหน่งจริงจาก OpenStreetMap</span>
+          <span><i class="dot dot-approx"></i> ตำแหน่งโดยประมาณ (กลางตำบล/อำเภอ)</span>
+        </p>
+      </section>
+    </main>
+
+    <footer class="foot">
+      <p>
+        รายชื่อมัสยิด: <a href="https://catalog.dra.go.th/dataset/abd7a6de-ddb7-4f81-a64f-092f98b58c20" rel="noopener">กรมการศาสนา</a> ปี 2565 ·
+        พิกัดและแผนที่: © <a href="https://www.openstreetmap.org/copyright" rel="noopener">ผู้ร่วมให้ข้อมูล OpenStreetMap</a>
+        (สัญญาอนุญาต <a href="https://opendatacommons.org/licenses/odbl/" rel="noopener">ODbL</a>)
+      </p>
+      <p class="muted">มัสยิดส่วนใหญ่ยังไม่มีพิกัดใน OpenStreetMap จึงแสดงตำแหน่งโดยประมาณ — ปุ่มนำทางจะค้นหาด้วยชื่อแทน</p>
+    </footer>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

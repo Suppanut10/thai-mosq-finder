@@ -1,0 +1,34 @@
+[
+ {
+  "id": "dra-4053",
+  "name": "อัลฟาติฮะห์",
+  "type": "มัสยิด",
+  "province": "อุบลราชธานี",
+  "district": "น้ำยืน",
+  "subdistrict": "สีวิเชียร",
+  "address": "",
+  "lat": 14.442627,
+  "lng": 105.084832,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ },
+ {
+  "id": "dra-4054",
+  "name": "อัลบัตตุลลาฮ์ (มัสยิดกลางจังหวัด)",
+  "type": "มัสยิด",
+  "province": "อุบลราชธานี",
+  "district": "เมือง",
+  "subdistrict": "",
+  "address": "",
+  "lat": 15.297586,
+  "lng": 104.853508,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

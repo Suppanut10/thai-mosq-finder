@@ -1,0 +1,18 @@
+[
+ {
+  "id": "dra-741",
+  "name": "ปากีสถาน",
+  "type": "มัสยิด",
+  "province": "นครปฐม",
+  "district": "เมือง",
+  "subdistrict": "พระปฐมเจดีย์",
+  "address": "",
+  "lat": 13.823709,
+  "lng": 100.076512,
+  "osm_id": "node/1202899826",
+  "osm_name": "มัสยิดปากีสถานนครปฐม",
+  "match_score": 90.0,
+  "match_status": "matched",
+  "coord_source": "osm"
+ }
+]

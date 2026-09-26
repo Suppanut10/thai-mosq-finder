@@ -1,0 +1,34 @@
+[
+ {
+  "id": "dra-4044",
+  "name": "อัต  ตักวา",
+  "type": "มัสยิด",
+  "province": "หนองบัวลำภู",
+  "district": "ศรีบุญเรือง",
+  "subdistrict": "เมืองใหม่",
+  "address": "",
+  "lat": 16.996177,
+  "lng": 102.217361,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ },
+ {
+  "id": "dra-4043",
+  "name": "อัลนูร",
+  "type": "มัสยิด",
+  "province": "หนองบัวลำภู",
+  "district": "เมือง",
+  "subdistrict": "ลำภู",
+  "address": "",
+  "lat": 17.150984,
+  "lng": 102.415417,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

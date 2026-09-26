@@ -1,0 +1,18 @@
+[
+ {
+  "id": "dra-4041",
+  "name": "นูรุ้ลอีมาน",
+  "type": "มัสยิด",
+  "province": "สุรินทร์",
+  "district": "ศรีขรภูมิ",
+  "subdistrict": "ระแงง",
+  "address": "",
+  "lat": 14.913941,
+  "lng": 103.687861,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "province_center"
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "id": "dra-3987",
+  "name": "นูรู๊นเราะห์มาน",
+  "type": "มัสยิด",
+  "province": "สุพรรณบุรี",
+  "district": "เมือง",
+  "subdistrict": "ท่าพี่เลี้ยง",
+  "address": "",
+  "lat": 14.472277,
+  "lng": 100.08554,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

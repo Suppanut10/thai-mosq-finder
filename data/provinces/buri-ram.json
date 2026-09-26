@@ -1,0 +1,34 @@
+[
+ {
+  "id": "dra-1588",
+  "name": "ดารุสสลาม",
+  "type": "มัสยิด",
+  "province": "บุรีรัมย์",
+  "district": "กระสัง",
+  "subdistrict": "กระสัง",
+  "address": "",
+  "lat": 14.970664,
+  "lng": 103.024629,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "subdistrict_center"
+ },
+ {
+  "id": "dra-1589",
+  "name": "อันวารุสลาม",
+  "type": "มัสยิด",
+  "province": "บุรีรัมย์",
+  "district": "เมืองบุรีรัมย์",
+  "subdistrict": "ในเมือง",
+  "address": "",
+  "lat": 14.994362,
+  "lng": 103.119133,
+  "osm_id": "node/4596153758",
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "position",
+  "coord_source": "osm"
+ }
+]

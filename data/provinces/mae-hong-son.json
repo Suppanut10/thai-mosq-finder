@@ -1,0 +1,50 @@
+[
+ {
+  "id": "dra-2723",
+  "name": "อัลอิสรออ",
+  "type": "มัสยิด",
+  "province": "แม่ฮ่องสอน",
+  "district": "ปาย",
+  "subdistrict": "เวียงใต้",
+  "address": "",
+  "lat": 19.360198,
+  "lng": 98.440138,
+  "osm_id": "way/389705075",
+  "osm_name": "มัสยิดอัลอิสรออุ",
+  "match_score": 94.1,
+  "match_status": "matched",
+  "coord_source": "osm"
+ },
+ {
+  "id": "dra-2724",
+  "name": "นูรุตตักวา",
+  "type": "มัสยิด",
+  "province": "แม่ฮ่องสอน",
+  "district": "เมือง",
+  "subdistrict": "จองคำ",
+  "address": "",
+  "lat": 19.286983,
+  "lng": 98.017449,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ },
+ {
+  "id": "dra-2725",
+  "name": "ญามีอาตุลอิสลาม",
+  "type": "มัสยิด",
+  "province": "แม่ฮ่องสอน",
+  "district": "แม่สะเรียง",
+  "subdistrict": "แม่สะเรียง",
+  "address": "",
+  "lat": 18.296846,
+  "lng": 97.776056,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

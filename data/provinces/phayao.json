@@ -1,0 +1,18 @@
+[
+ {
+  "id": "dra-2427",
+  "name": "ญามิอุ้ลอิสลาม",
+  "type": "มัสยิด",
+  "province": "พะเยา",
+  "district": "เมือง",
+  "subdistrict": "เวียง",
+  "address": "",
+  "lat": 19.1702,
+  "lng": 99.9022,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "subdistrict_center"
+ }
+]

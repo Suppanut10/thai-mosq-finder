@@ -1,0 +1,34 @@
+[
+ {
+  "id": "dra-402",
+  "name": "อัลฮายาต",
+  "type": "มัสยิด",
+  "province": "กาฬสินธุ์",
+  "district": "สมเด็จ",
+  "subdistrict": "สมเด็จ",
+  "address": "",
+  "lat": 16.782567,
+  "lng": 103.770905,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ },
+ {
+  "id": "dra-401",
+  "name": "ยะมีอะตุลอิสลาม",
+  "type": "มัสยิด",
+  "province": "กาฬสินธุ์",
+  "district": "เมือง",
+  "subdistrict": "ในเมือง",
+  "address": "",
+  "lat": 16.503952,
+  "lng": 103.560577,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

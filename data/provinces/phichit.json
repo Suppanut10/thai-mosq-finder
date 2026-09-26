@@ -1,0 +1,18 @@
+[
+ {
+  "id": "dra-2638",
+  "name": "ฎิยาอุ้ลอิสลามพิจิตร",
+  "type": "มัสยิด",
+  "province": "พิจิตร",
+  "district": "เมือง",
+  "subdistrict": "ในเมือง",
+  "address": "",
+  "lat": 16.402929,
+  "lng": 100.377933,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

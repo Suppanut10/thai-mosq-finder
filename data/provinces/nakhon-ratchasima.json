@@ -1,0 +1,34 @@
+[
+ {
+  "id": "dra-742",
+  "name": "ญันนะตุ้ลฟริเดาส์",
+  "type": "มัสยิด",
+  "province": "นครราชสีมา",
+  "district": "ปากช่อง",
+  "subdistrict": "ปากช่อง",
+  "address": "",
+  "lat": 14.643243,
+  "lng": 101.462488,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ },
+ {
+  "id": "dra-743",
+  "name": "อัรริฎวาน (นานา)",
+  "type": "มัสยิด",
+  "province": "นครราชสีมา",
+  "district": "เมือง",
+  "subdistrict": "ในเมือง",
+  "address": "",
+  "lat": 14.970883,
+  "lng": 102.082065,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "subdistrict_center"
+ }
+]

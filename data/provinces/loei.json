@@ -1,0 +1,18 @@
+[
+ {
+  "id": "dra-3306",
+  "name": "นูรุ้ลอิหม่าน",
+  "type": "มัสยิด",
+  "province": "เลย",
+  "district": "เมืองเลย",
+  "subdistrict": "นาอาน",
+  "address": "",
+  "lat": 17.543517,
+  "lng": 101.709923,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

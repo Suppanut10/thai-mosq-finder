@@ -1,0 +1,50 @@
+[
+ {
+  "id": "dra-4047",
+  "name": "ซิรอตุ้ลลอฮ์",
+  "type": "มัสยิด",
+  "province": "อ่างทอง",
+  "district": "เมือง",
+  "subdistrict": "ตลาดหลวง",
+  "address": "",
+  "lat": 14.575114,
+  "lng": 100.441123,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ },
+ {
+  "id": "dra-4045",
+  "name": "นู้รุ้รเราะห์ฮีม",
+  "type": "มัสยิด",
+  "province": "อ่างทอง",
+  "district": "ไชโย",
+  "subdistrict": "ชะไว",
+  "address": "",
+  "lat": 14.676519,
+  "lng": 100.464033,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ },
+ {
+  "id": "dra-4046",
+  "name": "อัลยุสรอสามัคคี",
+  "type": "มัสยิด",
+  "province": "อ่างทอง",
+  "district": "ไชโย",
+  "subdistrict": "ชะไว",
+  "address": "",
+  "lat": 14.676519,
+  "lng": 100.464033,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

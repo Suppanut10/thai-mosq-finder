@@ -1,0 +1,18 @@
+[
+ {
+  "id": "dra-3979",
+  "name": "นูรุ้ลฟัตตาห์",
+  "type": "มัสยิด",
+  "province": "สระแก้ว",
+  "district": "วังน้ำเย็น",
+  "subdistrict": "ทุ่งมหาเจริญ",
+  "address": "",
+  "lat": 13.545385,
+  "lng": 102.077108,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]

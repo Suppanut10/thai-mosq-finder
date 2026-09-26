@@ -1,0 +1,18 @@
+[
+ {
+  "id": "dra-403",
+  "name": "ญันนะตุ้ล มุฮมินีน",
+  "type": "มัสยิด",
+  "province": "กำแพงเพชร",
+  "district": "เมือง",
+  "subdistrict": "หนองปลิง",
+  "address": "",
+  "lat": 16.516265,
+  "lng": 99.515009,
+  "osm_id": "way/1320735392",
+  "osm_name": "มัสยิดญันนะตุ้ล มุฮฺมีนีน กำแพงเพชร",
+  "match_score": 83.6,
+  "match_status": "review",
+  "coord_source": "osm"
+ }
+]

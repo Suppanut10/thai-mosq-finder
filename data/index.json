@@ -1,0 +1,506 @@
+[
+ {
+  "province": "กระบี่",
+  "province_en": "Krabi Province",
+  "file": "provinces/krabi.json",
+  "count": 207,
+  "with_coords": 207
+ },
+ {
+  "province": "กรุงเทพมหานคร",
+  "province_en": "Bangkok",
+  "file": "provinces/bangkok.json",
+  "count": 186,
+  "with_coords": 186
+ },
+ {
+  "province": "กาญจนบุรี",
+  "province_en": "Kanchanaburi Province",
+  "file": "provinces/kanchanaburi.json",
+  "count": 7,
+  "with_coords": 7
+ },
+ {
+  "province": "กาฬสินธุ์",
+  "province_en": "Kalasin Province",
+  "file": "provinces/kalasin.json",
+  "count": 2,
+  "with_coords": 2
+ },
+ {
+  "province": "กำแพงเพชร",
+  "province_en": "Kamphaeng Phet Province",
+  "file": "provinces/kamphaeng-phet.json",
+  "count": 1,
+  "with_coords": 1
+ },
+ {
+  "province": "ขอนแก่น",
+  "province_en": "Khon Kaen Province",
+  "file": "provinces/khon-kaen.json",
+  "count": 6,
+  "with_coords": 6
+ },
+ {
+  "province": "จันทบุรี",
+  "province_en": "Chanthaburi Province",
+  "file": "provinces/chanthaburi.json",
+  "count": 2,
+  "with_coords": 2
+ },
+ {
+  "province": "ฉะเชิงเทรา",
+  "province_en": "Chachoengsao Province",
+  "file": "provinces/chachoengsao.json",
+  "count": 67,
+  "with_coords": 67
+ },
+ {
+  "province": "ชลบุรี",
+  "province_en": "Chon Buri Province",
+  "file": "provinces/chon-buri.json",
+  "count": 30,
+  "with_coords": 30
+ },
+ {
+  "province": "ชัยนาท",
+  "province_en": "Chai Nat Province",
+  "file": "provinces/chai-nat.json",
+  "count": 1,
+  "with_coords": 1
+ },
+ {
+  "province": "ชัยภูมิ",
+  "province_en": "Chaiyaphum Province",
+  "file": "provinces/chaiyaphum.json",
+  "count": 4,
+  "with_coords": 4
+ },
+ {
+  "province": "ชุมพร",
+  "province_en": "Chumphon Province",
+  "file": "provinces/chumphon.json",
+  "count": 7,
+  "with_coords": 7
+ },
+ {
+  "province": "ตรัง",
+  "province_en": "Trang Province",
+  "file": "provinces/trang.json",
+  "count": 152,
+  "with_coords": 152
+ },
+ {
+  "province": "ตราด",
+  "province_en": "Trat Province",
+  "file": "provinces/trat.json",
+  "count": 13,
+  "with_coords": 13
+ },
+ {
+  "province": "ตาก",
+  "province_en": "Tak Province",
+  "file": "provinces/tak.json",
+  "count": 5,
+  "with_coords": 5
+ },
+ {
+  "province": "นครนายก",
+  "province_en": "Nakhon Nayok Province",
+  "file": "provinces/nakhon-nayok.json",
+  "count": 29,
+  "with_coords": 29
+ },
+ {
+  "province": "นครปฐม",
+  "province_en": "Nakhon Pathom Province",
+  "file": "provinces/nakhon-pathom.json",
+  "count": 1,
+  "with_coords": 1
+ },
+ {
+  "province": "นครราชสีมา",
+  "province_en": "Nakhon Ratchasima Province",
+  "file": "provinces/nakhon-ratchasima.json",
+  "count": 2,
+  "with_coords": 2
+ },
+ {
+  "province": "นครศรีธรรมราช",
+  "province_en": "Nakhon Si Thammarat Province",
+  "file": "provinces/nakhon-si-thammarat.json",
+  "count": 132,
+  "with_coords": 132
+ },
+ {
+  "province": "นครสวรรค์",
+  "province_en": "Nakhon Sawan Province",
+  "file": "provinces/nakhon-sawan.json",
+  "count": 5,
+  "with_coords": 5
+ },
+ {
+  "province": "นนทบุรี",
+  "province_en": "Nonthaburi Province",
+  "file": "provinces/nonthaburi.json",
+  "count": 21,
+  "with_coords": 21
+ },
+ {
+  "province": "นราธิวาส",
+  "province_en": "Narathiwat Province",
+  "file": "provinces/narathiwat.json",
+  "count": 685,
+  "with_coords": 685
+ },
+ {
+  "province": "บึงกาฬ",
+  "province_en": "Bueng Kan Province",
+  "file": "provinces/bueng-kan.json",
+  "count": 1,
+  "with_coords": 1
+ },
+ {
+  "province": "บุรีรัมย์",
+  "province_en": "Buri Ram Province",
+  "file": "provinces/buri-ram.json",
+  "count": 2,
+  "with_coords": 2
+ },
+ {
+  "province": "ปทุมธานี",
+  "province_en": "Pathum Thani Province",
+  "file": "provinces/pathum-thani.json",
+  "count": 34,
+  "with_coords": 34
+ },
+ {
+  "province": "ประจวบคีรีขันธ์",
+  "province_en": "Prachuap Khiri Khan Province",
+  "file": "provinces/prachuap-khiri-khan.json",
+  "count": 13,
+  "with_coords": 13
+ },
+ {
+  "province": "ปราจีนบุรี",
+  "province_en": "Prachin Buri Province",
+  "file": "provinces/prachin-buri.json",
+  "count": 2,
+  "with_coords": 2
+ },
+ {
+  "province": "ปัตตานี",
+  "province_en": "Pattani Province",
+  "file": "provinces/pattani.json",
+  "count": 723,
+  "with_coords": 723
+ },
+ {
+  "province": "พระนครศรีอยุธยา",
+  "province_en": "Phra Nakhon Si Ayutthaya Province",
+  "file": "provinces/phra-nakhon-si-ayutthaya.json",
+  "count": 64,
+  "with_coords": 64
+ },
+ {
+  "province": "พะเยา",
+  "province_en": "Phayao Province",
+  "file": "provinces/phayao.json",
+  "count": 1,
+  "with_coords": 1
+ },
+ {
+  "province": "พังงา",
+  "province_en": "Phang-nga Province",
+  "file": "provinces/phang-nga.json",
+  "count": 107,
+  "with_coords": 107
+ },
+ {
+  "province": "พัทลุง",
+  "province_en": "Phatthalung Province",
+  "file": "provinces/phatthalung.json",
+  "count": 103,
+  "with_coords": 103
+ },
+ {
+  "province": "พิจิตร",
+  "province_en": "Phichit Province",
+  "file": "provinces/phichit.json",
+  "count": 1,
+  "with_coords": 1
+ },
+ {
+  "province": "พิษณุโลก",
+  "province_en": "Phitsanulok Province",
+  "file": "provinces/phitsanulok.json",
+  "count": 1,
+  "with_coords": 1
+ },
+ {
+  "province": "ภูเก็ต",
+  "province_en": "Phuket Province",
+  "file": "provinces/phuket.json",
+  "count": 59,
+  "with_coords": 59
+ },
+ {
+  "province": "มหาสารคาม",
+  "province_en": "Maha Sarakham Province",
+  "file": "provinces/maha-sarakham.json",
+  "count": 2,
+  "with_coords": 2
+ },
+ {
+  "province": "มุกดาหาร",
+  "province_en": "Mukdahan Province",
+  "file": "provinces/mukdahan.json",
+  "count": 1,
+  "with_coords": 1
+ },
+ {
+  "province": "ยะลา",
+  "province_en": "Yala Province",
+  "file": "provinces/yala.json",
+  "count": 521,
+  "with_coords": 521
+ },
+ {
+  "province": "ระนอง",
+  "province_en": "Ranong Province",
+  "file": "provinces/ranong.json",
+  "count": 32,
+  "with_coords": 32
+ },
+ {
+  "province": "ระยอง",
+  "province_en": "Rayong Province",
+  "file": "provinces/rayong.json",
+  "count": 11,
+  "with_coords": 11
+ },
+ {
+  "province": "ราชบุรี",
+  "province_en": "Ratchaburi Province",
+  "file": "provinces/ratchaburi.json",
+  "count": 4,
+  "with_coords": 4
+ },
+ {
+  "province": "ร้อยเอ็ด",
+  "province_en": "Roi Et Province",
+  "file": "provinces/roi-et.json",
+  "count": 2,
+  "with_coords": 2
+ },
+ {
+  "province": "ลพบุรี",
+  "province_en": "Lop Buri Province",
+  "file": "provinces/lop-buri.json",
+  "count": 5,
+  "with_coords": 5
+ },
+ {
+  "province": "ลำปาง",
+  "province_en": "Lampang Province",
+  "file": "provinces/lampang.json",
+  "count": 4,
+  "with_coords": 4
+ },
+ {
+  "province": "ลำพูน",
+  "province_en": "Lamphun Province",
+  "file": "provinces/lamphun.json",
+  "count": 1,
+  "with_coords": 1
+ },
+ {
+  "province": "ศรีสะเกษ",
+  "province_en": "Si Sa Ket Province",
+  "file": "provinces/si-sa-ket.json",
+  "count": 1,
+  "with_coords": 1
+ },
+ {
+  "province": "สกลนคร",
+  "province_en": "Sakon Nakhon Province",
+  "file": "provinces/sakon-nakhon.json",
+  "count": 1,
+  "with_coords": 1
+ },
+ {
+  "province": "สงขลา",
+  "province_en": "Songkhla Province",
+  "file": "provinces/songkhla.json",
+  "count": 412,
+  "with_coords": 412
+ },
+ {
+  "province": "สตูล",
+  "province_en": "Satun Province",
+  "file": "provinces/satun.json",
+  "count": 241,
+  "with_coords": 241
+ },
+ {
+  "province": "สมุทรปราการ",
+  "province_en": "Samut Prakan Province",
+  "file": "provinces/samut-prakan.json",
+  "count": 14,
+  "with_coords": 14
+ },
+ {
+  "province": "สมุทรสงคราม",
+  "province_en": "Samut Songkhram Province",
+  "file": "provinces/samut-songkhram.json",
+  "count": 1,
+  "with_coords": 1
+ },
+ {
+  "province": "สมุทรสาคร",
+  "province_en": "Samut Sakhon Province",
+  "file": "provinces/samut-sakhon.json",
+  "count": 1,
+  "with_coords": 1
+ },
+ {
+  "province": "สระบุรี",
+  "province_en": "Saraburi Province",
+  "file": "provinces/saraburi.json",
+  "count": 5,
+  "with_coords": 5
+ },
+ {
+  "province": "สระแก้ว",
+  "province_en": "Sa Kaeo Province",
+  "file": "provinces/sa-kaeo.json",
+  "count": 1,
+  "with_coords": 1
+ },
+ {
+  "province": "สิงห์บุรี",
+  "province_en": "Sing Buri Province",
+  "file": "provinces/sing-buri.json",
+  "count": 2,
+  "with_coords": 2
+ },
+ {
+  "province": "สุพรรณบุรี",
+  "province_en": "Suphan Buri Province",
+  "file": "provinces/suphan-buri.json",
+  "count": 1,
+  "with_coords": 1
+ },
+ {
+  "province": "สุราษฎร์ธานี",
+  "province_en": "Surat Thani Province",
+  "file": "provinces/surat-thani.json",
+  "count": 53,
+  "with_coords": 53
+ },
+ {
+  "province": "สุรินทร์",
+  "province_en": "Surin Province",
+  "file": "provinces/surin.json",
+  "count": 1,
+  "with_coords": 1
+ },
+ {
+  "province": "หนองคาย",
+  "province_en": "Nong Khai Province",
+  "file": "provinces/nong-khai.json",
+  "count": 1,
+  "with_coords": 1
+ },
+ {
+  "province": "หนองบัวลำภู",
+  "province_en": "Nong Bua Lam Phu Province",
+  "file": "provinces/nong-bua-lam-phu.json",
+  "count": 2,
+  "with_coords": 2
+ },
+ {
+  "province": "อุดรธานี",
+  "province_en": "Udon Thani Province",
+  "file": "provinces/udon-thani.json",
+  "count": 2,
+  "with_coords": 2
+ },
+ {
+  "province": "อุตรดิตถ์",
+  "province_en": "Uttaradit Province",
+  "file": "provinces/uttaradit.json",
+  "count": 1,
+  "with_coords": 1
+ },
+ {
+  "province": "อุทัยธานี",
+  "province_en": "Uthai Thani Province",
+  "file": "provinces/uthai-thani.json",
+  "count": 2,
+  "with_coords": 2
+ },
+ {
+  "province": "อุบลราชธานี",
+  "province_en": "Ubon Ratchathani Province",
+  "file": "provinces/ubon-ratchathani.json",
+  "count": 2,
+  "with_coords": 2
+ },
+ {
+  "province": "อ่างทอง",
+  "province_en": "Ang Thong Province",
+  "file": "provinces/ang-thong.json",
+  "count": 3,
+  "with_coords": 3
+ },
+ {
+  "province": "เชียงราย",
+  "province_en": "Chiang Rai Province",
+  "file": "provinces/chiang-rai.json",
+  "count": 7,
+  "with_coords": 7
+ },
+ {
+  "province": "เชียงใหม่",
+  "province_en": "Chiang Mai Province",
+  "file": "provinces/chiang-mai.json",
+  "count": 14,
+  "with_coords": 14
+ },
+ {
+  "province": "เพชรบุรี",
+  "province_en": "Phetchaburi Province",
+  "file": "provinces/phetchaburi.json",
+  "count": 16,
+  "with_coords": 16
+ },
+ {
+  "province": "เพชรบูรณ์",
+  "province_en": "Phetchabun Province",
+  "file": "provinces/phetchabun.json",
+  "count": 4,
+  "with_coords": 4
+ },
+ {
+  "province": "เลย",
+  "province_en": "Loei Province",
+  "file": "provinces/loei.json",
+  "count": 1,
+  "with_coords": 1
+ },
+ {
+  "province": "แพร่",
+  "province_en": "Phrae Province",
+  "file": "provinces/phrae.json",
+  "count": 1,
+  "with_coords": 1
+ },
+ {
+  "province": "แม่ฮ่องสอน",
+  "province_en": "Mae Hong Son Province",
+  "file": "provinces/mae-hong-son.json",
+  "count": 3,
+  "with_coords": 3
+ }
+]

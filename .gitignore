@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+
+# ไฟล์ชั่วคราว / ใช้เทียบผล
+data_before/
+nominatim_cache.json
+dra_mosques.xlsx
+
+# macOS / editor
+.DS_Store
+.claude/
+
+# web (มี web/.gitignore สำหรับ node_modules, dist, public/data อยู่แล้ว)

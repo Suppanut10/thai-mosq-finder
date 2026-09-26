@@ -1,0 +1,34 @@
+[
+ {
+  "id": "dra-4049",
+  "name": "กูวะติลอิสลาม",
+  "type": "มัสยิด",
+  "province": "อุดรธานี",
+  "district": "เมือง",
+  "subdistrict": "หมากแข้ง",
+  "address": "",
+  "lat": 17.402058,
+  "lng": 102.786833,
+  "osm_id": "node/5125837621",
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "position",
+  "coord_source": "osm"
+ },
+ {
+  "id": "dra-4048",
+  "name": "อัลมุบาร๊อก",
+  "type": "มัสยิด",
+  "province": "อุดรธานี",
+  "district": "เมือง",
+  "subdistrict": "โนนสูง",
+  "address": "",
+  "lat": 17.389961,
+  "lng": 102.778101,
+  "osm_id": null,
+  "osm_name": null,
+  "match_score": null,
+  "match_status": "unmatched",
+  "coord_source": "district_center"
+ }
+]
